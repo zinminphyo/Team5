@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week1testing</string>
+    <string name="digital_marketing"><font size="14"><b>Digital Marketing</b></font></string>
+    <string name="quesiton_desc">ရန္ကုန္တစ္ၿမိဳ႕လုံး Digital Marketing ထိထိေရာက္ေရာက္လုပ္မယ္ဆိုရင္ ပိုက္ဆံဘယ္ေလာက္ သုံးရမလဲ</string>
+    <string name="askTo">Ask to</string>
+    <string name="zinminphyo">Zin Min Phyo</string>
+</resources>
